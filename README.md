@@ -1,3 +1,4 @@
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=bimalka98&color=brightgreen&style=plastic)
 ### Welcome to my Git 🙋‍
 
 
@@ -10,11 +11,11 @@
 <p align="center">Reach Me Through</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/vidura-erandika-5aa4b21a0/">
-        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/li.svg" />
+        <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/linkedin.svg" />
 </a> 
 <a href="https://www.facebook.com/PrinceVidura">
        <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
 </a>
 </p>
 </p>
--->
+
