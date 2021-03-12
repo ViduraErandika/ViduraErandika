@@ -1,4 +1,4 @@
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=ViduraErandika&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=ViduraErandika&color=blue&style=plastic)
 ## Welcome to my Git 👋
 
 ### I'm Vidura Karunarathna
