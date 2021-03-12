@@ -1,4 +1,4 @@
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=bimalka98&color=brightgreen&style=plastic)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=ViduraErandika&color=brightgreen&style=plastic)
 ### Welcome to my Git 🙋‍
 
 
