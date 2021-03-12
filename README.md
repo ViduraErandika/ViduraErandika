@@ -1,4 +1,4 @@
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=ViduraErandika&color=brightgreen&style=plastic)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=ViduraErandika&color=blue&style=plastic)
 ### Welcome to my Git 🙋‍
 
 
@@ -20,3 +20,17 @@
 </p>
 </p>
 
+## Skills  :
+
+***Languages*  :**
+<p> 
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/dart.png"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/flutter.svg"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/angular.svg"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/javascript.svg"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/nodeJs.svg"></code>
+</p>
+
+***Tools*  :**
