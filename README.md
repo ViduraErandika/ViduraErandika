@@ -14,7 +14,7 @@
         <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/linkedin.svg" />
 </a> 
 <a href="https://www.facebook.com/PrinceVidura">
-       <img height="30" src="https://github.com/bimalka98/bimalka98/blob/master/Logos/f_logo_RGB-Blue_58.png" />
+       <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/facebook.png" />
 </a>
 </p>
 </p>
