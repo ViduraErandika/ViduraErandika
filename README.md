@@ -1,11 +1,11 @@
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ViduraErandika&color=blue&style=plastic)
-### Welcome to my Git 🙋‍
+### Welcome to my Git 👋
 
 
 
 
 - 🔭 I’m currently working on Web app development using Angular framework, Mobile app development using Flutter framework and IOT stuff using NodeMCU.
-- 🌱 I’m currently learning as an Undergraduate in University of Moratuwa in Electronics and Telecommunication Department.
+- 🌱 I’m currently learning as an Undergraduate🎓 in University of Moratuwa in Electronics and Telecommunication Department.
 - 💬 Ask me about anything. I'll reponse for sure if it's under my knowledge. 😃
 
 <p align="center">Reach Me Through</p>
@@ -34,3 +34,14 @@
 </p>
 
 ***Tools*  :**
+<p>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Altium_Designer_logo.png"></code>
+<code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
+<code><img height="32" src="https://png4u.com/wp-content/uploads/2019/09/Adobe-Photoshop-CC-PNG-Logo-1024x999.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/node-red-logo.png"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/visual-studio.svg"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/pycharm.svg"></code>
+<code><img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/webstorm.svg"></code>
+</p>
