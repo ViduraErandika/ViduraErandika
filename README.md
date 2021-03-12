@@ -16,9 +16,7 @@
 <a href="https://www.facebook.com/PrinceVidura">
        <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/facebook.png" />
 </a>
-        <a href="https://www.facebook.com/PrinceVidura">
-       <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/discord.png" />
-</a>
+   
 </p>
 </p>
 
