@@ -11,10 +11,10 @@
 <p align="center">Reach Me Through</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/vidura-erandika-5aa4b21a0/">
-        <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/linkedin.svg" />
+        <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/linkedin.svg" />
 </a> 
 <a href="https://www.facebook.com/PrinceVidura">
-       <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/facebook.png" />
+       <img height="30" src="https://github.com/ViduraErandika/ViduraErandika/blob/main/Logos/facebook.png" />
 </a>
 </p>
 </p>
