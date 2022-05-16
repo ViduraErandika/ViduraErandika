@@ -2,7 +2,7 @@
 ## Welcome to my Git 👋
 
 ### I'm Vidura Karunarathna
-### Second-Year Undergraduate🎓 | Electronic and Telecommunication Engineering | UoM
+### Third-Year Undergraduate🎓 | Electronic and Telecommunication Engineering | UoM
 
 
 - 🔭 I’m currently working on Web app development using Angular framework, Mobile app development using Flutter framework and IOT stuff using NodeMCU, MQTT.
